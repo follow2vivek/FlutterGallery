@@ -7,7 +7,7 @@ For help getting started with Flutter, view our online
 
 
 ## Screenshot
-<img src="./ss/ss_1.png" height="500em"/><img src="./ss/ss_2.png" height="500em"/>
+<img src="./ss/ss_1.png" height="500em"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./ss/ss_2.png" height="500em"/>
 
 ## Library Used
 ```dart 
