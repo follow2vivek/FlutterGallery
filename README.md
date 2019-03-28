@@ -1,4 +1,4 @@
-# flutter Gallery
+# Flutter Gallery
 
 ## Getting Started
 
