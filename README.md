@@ -7,15 +7,14 @@ For help getting started with Flutter, view our online
 
 
 ## Screenshot
-<img src="./ss/ss_1.png" height="500em"/>
-<img src="./ss/ss_2.png" height="500em"/>
+<img src="./ss/ss_1.png" height="500em"/><img src="./ss/ss_2.png" height="500em"/>
 
 ## Library Used
 ```dart 
 storage_path: ^0.0.8
 ```
 
-# Working on Video & Audio tab.
+Working on Video & Audio tab.
 
 ## Created & Maintained By
 
